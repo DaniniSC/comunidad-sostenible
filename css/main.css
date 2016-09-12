@@ -1,0 +1,221 @@
+/* css header */
+header {
+	padding: 0px 80px;
+	position: fixed;
+	width: 1200px;
+	background-color: white;
+}
+header img {
+	width: 80px;
+	height: 80px;
+}
+header nav {
+	text-align: center;
+	margin-top: 20px;
+}
+header nav a {
+	text-decoration: none;
+	color: grey;
+	font-size: 20px;
+	margin: 25px 15px;
+}
+header nav p {
+	color: grey;
+	font-size: 15px;
+	margin: 25px 15px;
+}
+/* css banner */
+.banner img {
+	margin: 0;
+	width: 1200px;
+	height: 600px;
+}
+/* css frase */
+.frase .grid-container{
+	background-color: #E8ECF1;
+}
+.frase p {
+	color: grey;
+	font-size: 15px;
+	text-align: center;
+	width: 800px;
+	margin: 50px auto;
+}
+/* css misión */
+.mision {
+	text-align: center;
+}
+.mision .grid-50 {
+	padding: 20px;
+}
+.mision img {
+	margin: 10px auto;
+	width: 150px;
+	height: 150px;
+}
+.mision h1 {
+	font-size: 25px;
+}
+.mision p {
+	font-size: 15px;
+	width: 400px;
+	margin: 0 auto 20px auto;
+}
+/* css metodologia */
+.metodologia .izq img {
+	width: 600px;
+	height: auto;
+}
+.metodologia .der {
+	text-align: center;
+	background-image: url(../img/fondo.jpg);
+	background-size: cover;
+}
+.metodologia .der img {
+	margin-top: 90px;
+}
+.metodologia h2 {
+	color: white;
+	font-size: 25px;
+}
+.metodologia p {
+	color: white;
+	font-size: 15px;
+	width: 450px;
+	margin: 10px auto 120px auto;
+}
+/* css servicios */
+.servicios {
+	text-align: center;
+}
+.servicios h2 {
+	margin: 30px auto;
+}
+.textoServicios {
+	width: 900px;
+	font-size: 15px;
+	margin: 2px auto;
+}
+.servicios table {
+	margin: 20px auto 50px auto;
+}
+.servicios img {
+	width: 160px;
+	height: 160px;
+}
+.servicios h3 {
+	color: #6E956E;
+}
+.descripcionServ {
+	width: 280px;
+	margin: 5px auto;
+	font-size: 15px;
+}
+/* css proyectos */
+.proyectos .grid-container {
+	background-color: #378937;
+	color: white;
+}
+.proyectos h1 {
+	text-align: center;
+	margin: 30px auto 15px auto;
+	font-size: 20px;
+}
+.proyectos img {
+	margin: 15px 50px;
+	width: 400px;
+}
+.proyectos h2 {
+	font-size: 25px;
+	margin-top: 0;
+}
+.proyectos p {
+	width: 500px;
+}
+.proyectos table {
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+/* css equipo */
+.equipo .grid-container {
+	text-align: center;
+}
+.equipo h2 {
+	color: #378937;
+	font-size: 20px;
+	margin-top: 50px;
+}
+.fotoPerfil {
+	border-radius: 50%;
+}
+.redesSociales img {
+	width: 40px;
+	height: 40px;
+	margin: 5px;
+}
+/* css blog */
+.blog .grid-container {
+	background-image: url(../img/fondo2.jpg);
+	background-size: cover;
+	text-align: center;
+	color: #5E5C5C;
+	padding-bottom: 50px;
+}
+.blog h2 {
+	margin: 30px auto;
+}
+.blog table {
+	margin: 0 auto;
+}
+.blog img {
+	width: 250px;
+	margin: 0 50px;
+}
+.blog h3 {
+	margin: 0 auto;
+	width: 250px;
+	text-align: left;
+}
+.blog p {
+	margin: 0 auto;
+	width: 250px;
+	text-align: left;
+}
+/* css contacto */
+.contacto .grid-container {
+	background-color: #555252;
+	color: white;
+}
+.contacto table {
+	border: 1px solid white;
+	margin: 50px auto;
+}
+.contacto td {
+	border: 1px solid white;
+	margin: 0;
+	width: 250px;
+	height: 250px;
+}
+.contacto a {
+	text-decoration: none;
+	color: white;
+	font-size: 20px;
+}
+.contacto img {
+	width: 40px;
+	height: 40px;
+}
+/* css footer */
+footer .grid-container {
+	margin: 40px 100px;
+}
+footer p {
+	color: #7E7777;
+}
+footer a {
+	text-decoration: none;
+	color: #EFE24D;
+}
+footer .der {
+	text-align: right;
+}
